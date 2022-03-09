@@ -1,0 +1,24 @@
+{
+  "name": "mRTOS_ModuleTemplate",
+  "version": "1.0.0",
+  "description": "microRTOS Module Template to be used to create modules for the freeRTOS custom architecture",
+  "keywords": "freeRTOS, RTOS, real-time, esp",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/PCLabTools/mRTOS_ModuleTemplate"
+  },
+  "authors":
+  [
+    {
+      "name": "Larry Colvin",
+      "email": "pclabtools@projectcolvin.com",
+      "url": "https://www.projectcolvin.com/about",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PCLabTools/mRTOS_ModuleTemplate",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
